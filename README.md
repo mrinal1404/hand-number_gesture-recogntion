@@ -1,4 +1,4 @@
-1-make sure to download all files in github
+1-make sure to download all files from github
 
 2-make a separate virtual environment
 
