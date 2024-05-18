@@ -7,3 +7,7 @@
 4-make a folder "static" and upload files image_upload.js and custom 
 
 5-make a folder "templates" and upload files index,layout and result
+
+6-make sure to run file model.ipynb and save model
+
+7-run app.py
